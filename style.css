@@ -1,0 +1,14 @@
+/* style.css */
+.fact-false {
+    background-color: #ffcccc;
+    color: #b30000;
+    font-weight: bold;
+    text-decoration: underline dotted red;
+    padding: 0 2px;
+}
+
+/* Add a hover effect to show tweets are clickable */
+article[data-testid="tweet"]:hover {
+    outline: 1px dashed #1d9bf0;
+    cursor: help;
+}
