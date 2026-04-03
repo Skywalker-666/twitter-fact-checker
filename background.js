@@ -1,5 +1,5 @@
 // 1. Setup with your specific model from AI Studio
-const GEMINI_API_KEY = 'AIzaSyDaFFgHa356N09VCUWbAADs1NfbccDbaFw'; 
+const GEMINI_API_KEY = 'Your API key'; //Add your API key here
 const MODEL_NAME = 'gemini-3-flash-preview'; // Updated to match your code
 
 // The 2026 Standard REST Endpoint
